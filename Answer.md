@@ -21,9 +21,7 @@ Python is a high-level, interpreted programming language known for its readabili
 
 2. **Install Python**:
    - **Windows**: Run the installer, ensure "Add Python to PATH" is checked, and follow the prompts.
-   - **macOS**: Run the `.pkg` file and follow the instructions.
-   - **Linux**: Use package managers like `sudo apt-get install python3`.
-
+   -
 3. **Verify Installation**:
    - Open a terminal or command prompt.
    - Run `python --version` or `python3 --version`.
@@ -32,7 +30,7 @@ Python is a high-level, interpreted programming language known for its readabili
    - Run `python -m venv myenv` (replace `python` with `python3` if needed).
    - Activate the environment:
      - **Windows**: `myenv\Scripts\activate`
-     - **macOS/Linux**: `source myenv/bin/activate`
+     
 
 ### Python Syntax and Semantics:
 
